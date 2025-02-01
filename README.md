@@ -10,6 +10,7 @@ or
 **JavaScript**: JavaScript or TypeScript (you choose), React (required; ask if you want to replace React with Angular)
 
 ```You can use any database and any other libraries, components or even frameworks (but not replace specified above).```
+
 There are no limitations in the area of architecture or used services. You don't even have to separate front and back; it's not a recommendation, of course, it's better to have separate front and back, but you may go other way. 
 
 It's recommended to use the simplest and the safest approach to the persistence, namely relational databse, e.g. PostgreSQL, MySQL, SQL Server, anything, but again you don't have to. Also, you may replace Bootstrap with any CSS framework and/or UI library you like. 
