@@ -2,12 +2,7 @@
 
 ## Course Project
 
-Use this (depending of what group you are in):
-**.NET**: C# (required), Blazor or MVC (you choose); of course, you use JavaScript or TypeScript as needed
-or
-**PHP**: PHP 8.2+ (required), Symfony 7+ (required); of course, you use JavaScript or TypeScript as needed
-or
-**JavaScript**: JavaScript or TypeScript (you choose), React (required; ask if you want to replace React with Angular)
+Use PHP 8.2+ (required), Symfony 7+ (required); of course, you use JavaScript or TypeScript as needed
 
 ```You can use any database and any other libraries, components or even frameworks (but not replace specified above).```
 
