@@ -1,4 +1,5 @@
 # iTransition Project
+<<<<<<< HEAD
 
 ## Course Project
 
@@ -110,3 +111,5 @@ IMPORTANT NOTE. Do not copy any code from code heaps. IT’S MUCH BETTER TO DO L
 AND THE MOST IMPORTANT: Start your work from the deployment of the static "Hello, world" page and **have a deployable version all the time**.
 
 ***AND EVEN MORE IMPORTANT: Defend your project even if you've done a small part of it.***
+=======
+>>>>>>> 67cc574edea0688e1373f5ecc4c92483fb6733de
